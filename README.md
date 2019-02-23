@@ -1,12 +1,3 @@
-Single Author info:
-
-bwmcdon2 Brayden W McDonald
-
-Group info:
-
-angodse Anupam N Godse
-
-
 # Bluetooth-controllable self-balancing EV3 Mindstorm robot
 EV3 Mindstorm robot programmed with EV3RT
 
